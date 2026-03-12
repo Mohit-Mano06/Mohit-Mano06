@@ -6,5 +6,5 @@
 
 
 ## 🌐 Socials:
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&animation=shake&animationDuration=2.5&showText=true&textColor=%230a66c2)](https://www.linkedin.com/in/mohit-manoharan-2ba16722a/)
-[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=96&animationDuration=1.7&showText=true)](mailto:mohit7052015@gmail.com)
+[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&animation=shake&animationDuration=2.5&showText=true&textColor=%230a66c2)](https://www.linkedin.com/in/mohit-manoharan-2ba16722a/)
+[![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=32&animationDuration=1.7&showText=true)](mailto:mohit7052015@gmail.com)
