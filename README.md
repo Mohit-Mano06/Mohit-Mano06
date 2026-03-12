@@ -6,4 +6,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-manoharan-2ba16722a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohit7052015@gmail.com) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,discord,discordjs,docker,figma,github,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,aws,vscode,html,css,discordjs,git,docker,figma,github,)](https://skillicons.dev)
