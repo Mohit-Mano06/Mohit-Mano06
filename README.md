@@ -2,7 +2,19 @@
 
 
 # 💫 About Me:
-👋 I’m passionate about 📊 Data Analytics and exploring how data can be transformed into actionable insights.<br><br>I’ve worked with Excel, Power Query, and DAX for data modeling and analysis, and I’m currently expanding my skill set through a Data Analyst roadmap covering Python, EDA, Feature Engineering, Power BI, and SQL.<br><br>I also have an interest in cloud platforms like ☁️AWS and how analytics and cloud technologies can work together for scalable solutions.<br><br>Always learning, experimenting, and building 🚀
+🚀 Aspiring AI & Data Engineer passionate about building real-world applications using LLMs, RAG pipelines, Computer Vision, and Cloud technologies.
+
+💡 Skilled in Python, SQL, AWS, Snowflake, LangChain, FAISS, OpenAI APIs, and Machine Learning workflows.
+
+🛠️ Built projects involving:
+• Retrieval-Augmented Generation (RAG) systems
+• Traffic Sign Recognition using YOLO & CNN
+• AI-powered PDF Q&A systems
+• Data analytics and cloud-based workflows
+
+Currently exploring scalable AI systems, vector databases, inference optimization, and production-ready ML applications.
+
+Always learning, building, and improving.
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,aws,vscode,html,css,discordjs,git,docker,figma,github,)](https://skillicons.dev)
