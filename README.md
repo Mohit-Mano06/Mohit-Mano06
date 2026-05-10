@@ -18,6 +18,7 @@ Always learning, building, and improving.
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=python,aws,vscode,html,css,discordjs,git,docker,figma,github,)](https://skillicons.dev)
+![langchain](https://www.readmecodegen.com/api/social-icon?name=langchain&size=64)
 
 
 ## 🌐 Socials:
