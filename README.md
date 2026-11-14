@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=1AF753&background=000000FB&center=true&vCenter=true&width=435&lines=hi!+my+name+is+mohit...;am+actively+learning;thanks+for+visiting+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=1AF753&background=000000FB&center=true&vCenter=true&width=435&lines=hi!+my+name+is+mohit...;am+actively+developing;thanks+for+visiting+my+profile)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
