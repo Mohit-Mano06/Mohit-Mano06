@@ -24,3 +24,6 @@ Always learning, building, and improving.
 ## 🌐 Socials:
 [![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=48&animation=shake&animationDuration=2.5&showText=true&textColor=%230a66c2)](https://www.linkedin.com/in/mohit-manoharan-2ba16722a/)
 [![gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&size=48&animationDuration=1.7&showText=true)](mailto:mohit7052015@gmail.com)
+
+## Activity
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mohit-Mano06&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Mohit-Mano06&hide_rank=true&show_icons=true&include_all_commits=true&theme=dark)
