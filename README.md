@@ -17,8 +17,9 @@ Currently exploring scalable AI systems, vector databases, inference optimizatio
 Always learning, building, and improving.
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=python,aws,vscode,html,css,discordjs,git,docker,figma,github,)](https://skillicons.dev)
-
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,python,linux,docker,discord,git,figma,github,c&theme=dark" alt="tech-stack" />
+</p>
 
 
 ## 🌐 Socials:
